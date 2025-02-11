@@ -1,2 +1,2 @@
-basics of c++
-switch loop and for loop
+basics of c++ by M.Asif khan.
+student of AI .
